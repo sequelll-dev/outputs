@@ -1,0 +1,8 @@
+5 3
+3
+"Wash and Fold" 30
+"Wash and Iron" 20
+"Dry Cleaning" 50
+1
+3 "Sequell" "12345678911"
+0
